@@ -4,3 +4,6 @@ Nací en Argentina.
 La fecha de hoy es: 09 de mayo del 2021
 Tengo 32 años.
 Vivo en Buenos Aires.
+
+Hoy empiezo a estudiar como usar Git.
+

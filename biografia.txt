@@ -5,6 +5,6 @@ La fecha de hoy es: 09 de mayo del 2021
 Tengo 32 años.
 Vivo en Buenos Aires.
 
-Hoy empiezo a estudiar como usar Git.
-Esta es la versión final del archivo.
+El día 08 de mayo comencé a aprender Git. Estoy en la clase 12.
+
 

@@ -6,4 +6,5 @@ Tengo 32 años.
 Vivo en Buenos Aires.
 
 Hoy empiezo a estudiar como usar Git.
+Esta es la versión final del archivo.
 

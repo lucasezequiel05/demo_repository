@@ -1,3 +1,5 @@
-Mi nombre es Lucas Veliz.
-La fecha es 08 de mayo de 2021. Comienzo el curso de git.
+Hola
+Mi nombre es Lucas.
 Nací en Argentina.
+La fecha de hoy es: 09 de mayo del 2021
+Tengo 32 años.

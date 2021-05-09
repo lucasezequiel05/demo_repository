@@ -1,2 +1,0 @@
-Mi nombre es Lucas Veliz.
-La fecha es 08 de mayo de 2021. Comienzo el curso de git.

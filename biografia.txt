@@ -16,3 +16,5 @@ El siguiente texto quiero que se fusione con la rama master.
 
 -------------------0---------------------------
 
+Bien! El texto se fusionó correctamente.
+

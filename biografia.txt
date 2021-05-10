@@ -10,4 +10,9 @@ El día 08 de mayo comencé a aprender Git. Estoy en la clase 12.
 Buen día. Hoy es 10 de mayo. Continúo con el curso de git.
 El primer tema a ver es ramas.
 
-Creamos una rama llamada cabecera.
+Creamos una rama llamada cabecera:
+
+El siguiente texto quiero que se fusione con la rama master.
+
+-------------------0---------------------------
+

@@ -1,10 +1,8 @@
-Buen día. 
-
+Hello.
 Mi nombre es Lucas Ezequiel.
-Nací en Argentina.
 La fecha de hoy es: 09 de mayo del 2021
 Tengo 32 años.
-Vivo en Buenos Aires.
+Vivo en Buenos Aires, Argentina.
 
 El día 08 de mayo comencé a aprender Git. Estoy en la clase 12.
 
@@ -18,4 +16,6 @@ El siguiente texto quiero que se fusione con la rama master.
 -------------------0---------------------------
 
 Bien! El texto se fusionó correctamente.
+A las 19:29 del 10 de Mayo este archivo fue enviado al repositorio remoto.
+
 

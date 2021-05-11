@@ -1,2 +1,2 @@
-# demo_repository
-Este es un repositorio de prueba para comenzar a usar GitHub
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
